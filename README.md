@@ -1,10 +1,8 @@
 <img align="left"  height="150" src="./resources/aair_logo.png" alt="AAIR Lab logo">
 
-# Autonomous Agents and Intelligent Robots Lab, ASU
+# Public Code Repository of Autonomous Agents and Intelligent Robots Lab, ASU
 <br/>
 <br/>
-
-## Code is available for the following works:
 
 ### 2021
 1. Learning Generalized Relational Heuristic Networks for Model-Agnostic Planning.<br/>
