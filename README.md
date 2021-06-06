@@ -1,6 +1,7 @@
-<img align="left"  height="150" src="./resources/aair_logo.png" alt="AAIR Lab logo">
+<p align="center"><img align="center" height="150" src="./resources/aair_logo.png" alt="AAIR Lab logo"></p>
+<h1 align="center">Public Code Repository</br>
+<a href="https://aair-lab.github.io">AAIR Lab</a>, ASU </h1>
 
-# Autonomous Agents and Intelligent Robots Lab, ASU
 <br/>
 <br/>
 
