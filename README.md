@@ -1,4 +1,4 @@
-<p align="center"><img align="center" height="150" src="./resources/aair_logo.png" alt="AAIR Lab logo"></p>
+<p align="center"><img align="center" height="150" src="./resources/aair_logo_shadow.png" alt="AAIR Lab logo"></p>
 <h1 align="center">Public Code Repository</br>
 <a href="https://aair-lab.github.io">AAIR Lab</a>, ASU </h1>
 
