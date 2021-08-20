@@ -6,7 +6,14 @@
 <br/>
 
 ### 2021
-1. Learning Generalized Relational Heuristic Networks for Model-Agnostic Planning.<br/>
+* JEDAI Explains Decision-making AI.<br/>
+<a href="https://github.com/AAIR-lab/AAIR-JEDAI">
+  &emsp;&emsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aair-lab&repo=AAIR-JEDAI" />
+</a>
+<br/>
+<br/>
+
+* Learning Generalized Relational Heuristic Networks for Model-Agnostic Planning.<br/>
 Rushang Karia, Siddharth Srivastava.<br/>
 In Proceedings of AAAI, 2021.<br/>
 <a href="https://github.com/AAIR-lab/GHN">
@@ -15,7 +22,7 @@ In Proceedings of AAAI, 2021.<br/>
 <br/>
 <br/>
 
-2. Asking the Right Questions: Learning Interpretable Action Models Through Query Answering.<br/>
+* Asking the Right Questions: Learning Interpretable Action Models Through Query Answering.<br/>
 Pulkit Verma, Shashank Rao Marpally, Siddharth Srivastava.<br/>
 In Proceedings of AAAI, 2021.<br/>
 <a href="https://github.com/AAIR-lab/AIA-AAAI21">
@@ -27,7 +34,7 @@ In Proceedings of AAAI, 2021.<br/>
 
 ### 2020
 
-3. Anytime Task and Motion Policies for Stochastic Environments.<br/>
+* Anytime Task and Motion Policies for Stochastic Environments.<br/>
 Naman Shah, Deepak Kala Vasudevan, Kislay Kumar, Pranav Kamojhalla, Siddharth Srivastava.<br/>
 In Proceedings of ICRA, 2020.<br/>
 <a href="https://github.com/AAIR-lab/Anytime-Task-and-Motion-Policies">
