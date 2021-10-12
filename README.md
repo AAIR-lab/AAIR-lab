@@ -37,8 +37,8 @@ In Proceedings of AAAI, 2021.<br/>
 * Anytime Task and Motion Policies for Stochastic Environments.<br/>
 Naman Shah, Deepak Kala Vasudevan, Kislay Kumar, Pranav Kamojhalla, Siddharth Srivastava.<br/>
 In Proceedings of ICRA, 2020.<br/>
-<a href="https://github.com/AAIR-lab/Anytime-Task-and-Motion-Policies">
-  &emsp;&emsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aair-lab&repo=Anytime-Task-and-Motion-Policies" />
+<a href="https://github.com/AAIR-lab/Stochastic-Task-and-Motion-Planning">
+  &emsp;&emsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aair-lab&repo=Stochastic-Task-and-Motion-Planning" />
 </a>
 <br/>
 <br/>
