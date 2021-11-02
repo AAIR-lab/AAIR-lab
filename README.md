@@ -7,6 +7,8 @@
 
 ### 2021
 * JEDAI Explains Decision-making AI.<br/>
+Trevor Angle*, Naman Shah*, Pulkit Verma*, Siddharth Srivastava.<br/>
+ArXiv: 2111.00585, 2021. (In Submission)<br/>
 <a href="https://github.com/AAIR-lab/AAIR-JEDAI">
   &emsp;&emsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aair-lab&repo=AAIR-JEDAI" />
 </a>
