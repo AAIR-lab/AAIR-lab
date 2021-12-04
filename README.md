@@ -1,4 +1,6 @@
-<p align="center"><img align="center" height="150" src="./resources/aair_logo_shadow.png" alt="AAIR Lab logo"></p>
+<p align="center">
+<img align="center" height="150" src="https://raw.githubusercontent.com/AAIR-lab/AAIR-lab/main/resources/aair-logo-inverse.png#gh-dark-mode-only" alt="AAIR Lab Logo" ><img align="center" height="150" src="https://raw.githubusercontent.com/AAIR-lab/AAIR-lab/main/resources/aair_logo.png#gh-light-mode-only" alt="AAIR Lab Logo">
+</p>
 <h1 align="center">Public Code Repository</br>
 <a href="https://aair-lab.github.io">AAIR Lab</a>, ASU </h1>
 
