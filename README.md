@@ -7,15 +7,18 @@
 <br/>
 <br/>
 
-### 2021
-* JEDAI Explains Decision-making AI.<br/>
-Trevor Angle*, Naman Shah*, Pulkit Verma*, Siddharth Srivastava.<br/>
-ArXiv: 2111.00585, 2021. (In Submission)<br/>
+### 2022
+
+* JEDAI: A System for Skill-Aligned Explainable Robot Planning (Demonstration Track).<br/>
+Naman Shah*, Pulkit Verma*, Trevor Angle, Siddharth Srivastava.<br/>
+In Proceedings of AAMAS, 2022. (To appear)<br/>
 <a href="https://github.com/AAIR-lab/AAIR-JEDAI">
   &emsp;&emsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aair-lab&repo=AAIR-JEDAI" />
 </a>
 <br/>
 <br/>
+
+### 2021
 
 * Learning Generalized Relational Heuristic Networks for Model-Agnostic Planning.<br/>
 Rushang Karia, Siddharth Srivastava.<br/>
