@@ -18,6 +18,15 @@ In Proceedings of AAMAS, 2022. (To appear)<br/>
 <br/>
 <br/>
 
+* Differential Assessment of Black-Box AI Agents.<br/>
+Rashmeet Kaur Nayyar*, Pulkit Verma*, Siddharth Srivastava.<br/>
+In Proceedings of AAAI, 2022. <br/>
+<a href="https://github.com/AAIR-lab/DAAISy">
+  &emsp;&emsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aair-lab&repo=DAAISy" />
+</a>
+<br/>
+<br/>
+
 ### 2021
 
 * Learning Generalized Relational Heuristic Networks for Model-Agnostic Planning.<br/>
