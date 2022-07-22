@@ -9,9 +9,19 @@
 
 ### 2022
 
+* Using Deep Learning to Boostrap Abstractions for Hierarchical Robot Planning.<br/>
+Naman Shah and Siddharth Srivastava.<br/>
+In Proceedings of AAMAS, 2022.<br/>
+<a href="https://github.com/AAIR-lab/HARP">
+  &emsp;&emsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aair-lab&repo=HARP" />
+</a>
+<br/>
+<br/>
+
+
 * JEDAI: A System for Skill-Aligned Explainable Robot Planning (Demonstration Track).<br/>
 Naman Shah*, Pulkit Verma*, Trevor Angle, Siddharth Srivastava.<br/>
-In Proceedings of AAMAS, 2022. (To appear)<br/>
+In Proceedings of AAMAS, 2022.<br/>
 <a href="https://github.com/AAIR-lab/AAIR-JEDAI">
   &emsp;&emsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aair-lab&repo=AAIR-JEDAI" />
 </a>
