@@ -9,6 +9,15 @@
 
 ### 2022
 
+* Relational Abstractions for Generalized Reinforcement Learning on Symbolic Problems<br/>
+Rushang Karia and Siddharth Srivastava<br/>
+In Proceedings of IJCAI, 2022<br/>
+<a href="https://github.com/AAIR-lab/GRAPL">
+  &emsp;&emsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aair-lab&repo=GRAPL" />
+</a>
+<br/>
+<br/>
+
 * Using Deep Learning to Boostrap Abstractions for Hierarchical Robot Planning.<br/>
 Naman Shah and Siddharth Srivastava.<br/>
 In Proceedings of AAMAS, 2022.<br/>
