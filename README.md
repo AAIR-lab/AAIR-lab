@@ -7,17 +7,6 @@
 <br/>
 <br/>
 
-### 2023
-
-* Conditional Abstraction Trees for Sample-Efficient Reinforcement Learning.<br/>
-Mehdi Dadvar, Rashmeet Kaur Nayyar, and Siddharth Srivastava.<br/>
-In Proceedings of UAI, 2023.<br/>
-<a href="https://github.com/AAIR-lab/CAT-RL">
-  &emsp;&emsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aair-lab&repo=CAT-RL" />
-</a>
-<br/>
-<br/>
-
 ### 2022
 
 * Relational Abstractions for Generalized Reinforcement Learning on Symbolic Problems.<br/>
