@@ -7,11 +7,22 @@
 <br/>
 <br/>
 
+### 2023
+
+* Conditional Abstraction Trees for Sample-Efficient Reinforcement Learning.<br/>
+Mehdi Dadvar, Rashmeet Kaur Nayyar, Siddharth Srivastava.<br/>
+In Proceedings of UAI, 2023.<br/>
+<a href="https://github.com/AAIR-lab/CAT-RL">
+  &emsp;&emsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aair-lab&repo=CAT-RL" />
+</a>
+<br/>
+<br/>
+
 ### 2022
 
 * Relational Abstractions for Generalized Reinforcement Learning on Symbolic Problems.<br/>
-Rushang Karia and Siddharth Srivastava<br/>
-In Proceedings of IJCAI, 2022<br/>
+Rushang Karia, Siddharth Srivastava<br/>
+In Proceedings of IJCAI, 2022.<br/>
 <a href="https://github.com/AAIR-lab/GRAPL">
   &emsp;&emsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aair-lab&repo=GRAPL" />
 </a>
@@ -19,7 +30,7 @@ In Proceedings of IJCAI, 2022<br/>
 <br/>
 
 * Using Deep Learning to Boostrap Abstractions for Hierarchical Robot Planning.<br/>
-Naman Shah and Siddharth Srivastava.<br/>
+Naman Shah, Siddharth Srivastava.<br/>
 In Proceedings of AAMAS, 2022.<br/>
 <a href="https://github.com/AAIR-lab/HARP">
   &emsp;&emsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aair-lab&repo=HARP" />
