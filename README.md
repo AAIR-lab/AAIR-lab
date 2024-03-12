@@ -29,15 +29,6 @@ In Proceedings of IJCAI, 2022.<br/>
 <br/>
 <br/>
 
-* Discovering User-Interpretable Capabilities of Black-Box Planning Agents.<br/>
-Pulkit Verma, Shashank Rao Marpally, Siddharth Srivastava.<br/>
-In Proceedings of KR, 2022.<br/>
-<a href="https://github.com/AAIR-lab/iCaML">
-  &emsp;&emsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aair-lab&repo=iCaML" />
-</a>
-<br/>
-<br/>
-
 * Using Deep Learning to Boostrap Abstractions for Hierarchical Robot Planning.<br/>
 Naman Shah, Siddharth Srivastava.<br/>
 In Proceedings of AAMAS, 2022.<br/>
