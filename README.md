@@ -9,6 +9,15 @@
 
 ### 2023
 
+* Autonomous Capability Assessment of Sequential Decision-Making Systems in Stochastic Settings.<br/>
+Pulkit Verma, Rushang Karia, Siddharth Srivastava.<br/>
+In Proceedings of NeurIPS, 2023.<br/>
+<a href="https://github.com/AAIR-lab/QACE">
+  &emsp;&emsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aair-lab&repo=QACE" />
+</a>
+<br/>
+<br/>
+
 * Conditional Abstraction Trees for Sample-Efficient Reinforcement Learning.<br/>
 Mehdi Dadvar, Rashmeet Kaur Nayyar, Siddharth Srivastava.<br/>
 In Proceedings of UAI, 2023.<br/>
