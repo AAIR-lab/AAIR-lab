@@ -7,6 +7,17 @@
 <br/>
 <br/>
 
+### 2024
+
+* Epistemic Exploration for Generalizable Planning and Learning in Non-Stationary Settings.<br/>
+Rushang Karia*, Pulkit Verma*, Alberto Speranzon, Siddharth Srivastava.<br/>
+In Proceedings of ICAPS, 2024.<br/>
+<a href="https://github.com/AAIR-lab/GRAPL/tree/icaps-24">
+  &emsp;&emsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aair-lab&repo=GRAPL" />
+</a>
+<br/>
+<br/>
+
 ### 2023
 
 * Autonomous Capability Assessment of Sequential Decision-Making Systems in Stochastic Settings.<br/>
