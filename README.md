@@ -43,7 +43,7 @@ In Proceedings of UAI, 2023.<br/>
 * Relational Abstractions for Generalized Reinforcement Learning on Symbolic Problems.<br/>
 Rushang Karia, Siddharth Srivastava<br/>
 In Proceedings of IJCAI, 2022.<br/>
-<a href="https://github.com/AAIR-lab/GRAPL">
+<a href="https://github.com/AAIR-lab/GRAPL/tree/ijcai-22">
   &emsp;&emsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aair-lab&repo=GRAPL" />
 </a>
 <br/>
@@ -91,8 +91,8 @@ In Proceedings of AAAI, 2022. <br/>
 * Learning Generalized Relational Heuristic Networks for Model-Agnostic Planning.<br/>
 Rushang Karia, Siddharth Srivastava.<br/>
 In Proceedings of AAAI, 2021.<br/>
-<a href="https://github.com/AAIR-lab/GHN">
-  &emsp;&emsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aair-lab&repo=GHN" />
+<a href="https://github.com/AAIR-lab/GRAPL/tree/aaai-21">
+  &emsp;&emsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aair-lab&repo=GRAPL" />
 </a>
 <br/>
 <br/>
