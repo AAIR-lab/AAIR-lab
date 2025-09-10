@@ -10,6 +10,16 @@
 
 ### 2025
 
+* From the Real World to Logic and Back: Learning Symbolic World Models for Long Horizon Planning. <br/>
+Naman Shah, Jayesh Nagpal, Siddharth Srivastava. <br/>
+In Proceedings of CoRL 2025. (to appear) <br/>
+&emsp;&emsp;
+<a href="https://github.com/AAIR-lab/LAMP">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aair-lab&repo=LAMP" />
+</a>
+<br/>
+<br/>
+
 * Autonomous Evaluation of LLMs for Truth Maintenance and Reasoning Tasks. <br/>
 Rushang Karia*, Daniel Bramblett*, Daksh Dobhal, Siddharth Srivastava. <br/>
 In Proceedings of ICLR 2025. <br/>
