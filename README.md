@@ -30,6 +30,16 @@ In Proceedings of ICLR 2025. <br/>
 <br/>
 <br/>
 
+* Using Explainable AI and Hierarchical Planning for Outreach with Robots. <br/>
+Rushang Karia*, Jayesh Nagpal*, Daksh Dobhal*, Pulkit Verma, Rashmeet Kaur Nayyar, Naman Shah, Siddharth Srivastava. <br/>
+In Proceedings of EAAI, 2025. <br/>
+&emsp;&emsp;
+<a href="https://github.com/AAIR-lab/jedai">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aair-lab&repo=jedai" />
+</a>
+<br/>
+<br/>
+
 ### 2024
 
 * Epistemic Exploration for Generalizable Planning and Learning in Non-Stationary Settings.<br/>
