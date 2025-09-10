@@ -13,9 +13,8 @@
 * From the Real World to Logic and Back: Learning Symbolic World Models for Long Horizon Planning. <br/>
 Naman Shah, Jayesh Nagpal, Siddharth Srivastava. <br/>
 In Proceedings of CoRL 2025. (to appear) <br/>
-&emsp;&emsp;
-<a href="https://github.com/AAIR-lab/LAMP">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aair-lab&repo=LAMP" />
+
+&emsp;&emsp; <a href="https://github.com/AAIR-lab/LAMP"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aair-lab&repo=LAMP" />
 </a>
 <br/>
 <br/>
@@ -23,9 +22,8 @@ In Proceedings of CoRL 2025. (to appear) <br/>
 * Autonomous Evaluation of LLMs for Truth Maintenance and Reasoning Tasks. <br/>
 Rushang Karia*, Daniel Bramblett*, Daksh Dobhal, Siddharth Srivastava. <br/>
 In Proceedings of ICLR 2025. <br/>
-&emsp;&emsp;
-<a href="https://github.com/AAIR-lab/autoeval">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aair-lab&repo=autoeval" />
+
+&emsp;&emsp; <a href="https://github.com/AAIR-lab/autoeval"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aair-lab&repo=autoeval" />
 </a>
 <br/>
 <br/>
@@ -33,9 +31,8 @@ In Proceedings of ICLR 2025. <br/>
 * Autonomous Option Invention for Continual Hierarchical Reinforcement Learning and Planning. <br/>
 Rashmeet Kaur Nayyar, Siddharth Srivastava. <br/>
 In Proceedings of AAAI, 2025. <br/>
-&emsp;&emsp;
-<a href="https://github.com/AAIR-lab/CHiRP">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aair-lab&repo=CHiRP" />
+
+&emsp;&emsp; <a href="https://github.com/AAIR-lab/CHiRP"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aair-lab&repo=CHiRP" />
 </a>
 <br/>
 <br/>
@@ -43,9 +40,8 @@ In Proceedings of AAAI, 2025. <br/>
 * Using Explainable AI and Hierarchical Planning for Outreach with Robots. <br/>
 Rushang Karia*, Jayesh Nagpal*, Daksh Dobhal*, Pulkit Verma, Rashmeet Kaur Nayyar, Naman Shah, Siddharth Srivastava. <br/>
 In Proceedings of EAAI, 2025. <br/>
-&emsp;&emsp;
-<a href="https://github.com/AAIR-lab/jedai">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aair-lab&repo=jedai" />
+
+&emsp;&emsp; <a href="https://github.com/AAIR-lab/jedai"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aair-lab&repo=jedai" />
 </a>
 <br/>
 <br/>
@@ -55,9 +51,8 @@ In Proceedings of EAAI, 2025. <br/>
 * Epistemic Exploration for Generalizable Planning and Learning in Non-Stationary Settings.<br/>
 Rushang Karia*, Pulkit Verma*, Alberto Speranzon, Siddharth Srivastava.<br/>
 In Proceedings of ICAPS, 2024.<br/>
-&emsp;&emsp;
-<a href="https://github.com/AAIR-lab/GRAPL/tree/icaps-24">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aair-lab&repo=GRAPL" />
+
+&emsp;&emsp; <a href="https://github.com/AAIR-lab/GRAPL/tree/icaps-24"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aair-lab&repo=GRAPL" />
 </a>
 <br/>
 <br/>
@@ -67,9 +62,8 @@ In Proceedings of ICAPS, 2024.<br/>
 * Autonomous Capability Assessment of Sequential Decision-Making Systems in Stochastic Settings.<br/>
 Pulkit Verma, Rushang Karia, Siddharth Srivastava.<br/>
 In Proceedings of NeurIPS, 2023.<br/>
-&emsp;&emsp;
-<a href="https://github.com/AAIR-lab/QACE">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aair-lab&repo=QACE" />
+
+&emsp;&emsp; <a href="https://github.com/AAIR-lab/QACE"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aair-lab&repo=QACE" />
 </a>
 <br/>
 <br/>
@@ -77,9 +71,8 @@ In Proceedings of NeurIPS, 2023.<br/>
 * Conditional Abstraction Trees for Sample-Efficient Reinforcement Learning.<br/>
 Mehdi Dadvar, Rashmeet Kaur Nayyar, Siddharth Srivastava.<br/>
 In Proceedings of UAI, 2023.<br/>
-&emsp;&emsp;
-<a href="https://github.com/AAIR-lab/CAT-RL">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aair-lab&repo=CAT-RL" />
+
+&emsp;&emsp; <a href="https://github.com/AAIR-lab/CAT-RL"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aair-lab&repo=CAT-RL" />
 </a>
 <br/>
 <br/>
@@ -89,9 +82,8 @@ In Proceedings of UAI, 2023.<br/>
 * Relational Abstractions for Generalized Reinforcement Learning on Symbolic Problems.<br/>
 Rushang Karia, Siddharth Srivastava<br/>
 In Proceedings of IJCAI, 2022.<br/>
-&emsp;&emsp;
-<a href="https://github.com/AAIR-lab/GRAPL/tree/ijcai-22">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aair-lab&repo=GRAPL" />
+
+&emsp;&emsp; <a href="https://github.com/AAIR-lab/GRAPL/tree/ijcai-22"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aair-lab&repo=GRAPL" />
 </a>
 <br/>
 <br/>
@@ -99,9 +91,8 @@ In Proceedings of IJCAI, 2022.<br/>
 * Discovering User-Interpretable Capabilities of Black-Box Planning Agents.<br/>
 Pulkit Verma, Shashank Rao Marpally, Siddharth Srivastava.<br/>
 In Proceedings of KR, 2022.<br/>
-&emsp;&emsp;
-<a href="https://github.com/AAIR-lab/iCaML">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aair-lab&repo=iCaML" />
+
+&emsp;&emsp; <a href="https://github.com/AAIR-lab/iCaML"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aair-lab&repo=iCaML" />
 </a>
 <br/>
 <br/>
@@ -109,9 +100,8 @@ In Proceedings of KR, 2022.<br/>
 * Using Deep Learning to Boostrap Abstractions for Hierarchical Robot Planning.<br/>
 Naman Shah, Siddharth Srivastava.<br/>
 In Proceedings of AAMAS, 2022.<br/>
-&emsp;&emsp;
-<a href="https://github.com/AAIR-lab/HARP">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aair-lab&repo=HARP" />
+
+&emsp;&emsp; <a href="https://github.com/AAIR-lab/HARP"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aair-lab&repo=HARP" />
 </a>
 <br/>
 <br/>
@@ -120,9 +110,8 @@ In Proceedings of AAMAS, 2022.<br/>
 * JEDAI: A System for Skill-Aligned Explainable Robot Planning (Demonstration Track).<br/>
 Naman Shah*, Pulkit Verma*, Trevor Angle, Siddharth Srivastava.<br/>
 In Proceedings of AAMAS, 2022.<br/>
-&emsp;&emsp;
-<a href="https://github.com/AAIR-lab/AAIR-JEDAI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aair-lab&repo=AAIR-JEDAI" />
+
+&emsp;&emsp; <a href="https://github.com/AAIR-lab/AAIR-JEDAI"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aair-lab&repo=AAIR-JEDAI" />
 </a>
 <br/>
 <br/>
@@ -130,9 +119,8 @@ In Proceedings of AAMAS, 2022.<br/>
 * Differential Assessment of Black-Box AI Agents.<br/>
 Rashmeet Kaur Nayyar*, Pulkit Verma*, Siddharth Srivastava.<br/>
 In Proceedings of AAAI, 2022. <br/>
-&emsp;&emsp;
-<a href="https://github.com/AAIR-lab/DAAISy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aair-lab&repo=DAAISy" />
+
+&emsp;&emsp; <a href="https://github.com/AAIR-lab/DAAISy"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aair-lab&repo=DAAISy" />
 </a>
 <br/>
 <br/>
@@ -142,9 +130,8 @@ In Proceedings of AAAI, 2022. <br/>
 * Learning Generalized Relational Heuristic Networks for Model-Agnostic Planning.<br/>
 Rushang Karia, Siddharth Srivastava.<br/>
 In Proceedings of AAAI, 2021.<br/>
-&emsp;&emsp;
-<a href="https://github.com/AAIR-lab/GRAPL/tree/aaai-21">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aair-lab&repo=GRAPL" />
+
+&emsp;&emsp; <a href="https://github.com/AAIR-lab/GRAPL/tree/aaai-21"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aair-lab&repo=GRAPL" />
 </a>
 <br/>
 <br/>
@@ -152,10 +139,8 @@ In Proceedings of AAAI, 2021.<br/>
 * Asking the Right Questions: Learning Interpretable Action Models Through Query Answering.<br/>
 Pulkit Verma, Shashank Rao Marpally, Siddharth Srivastava.<br/>
 In Proceedings of AAAI, 2021.<br/>
-&emsp;&emsp;
-<a href="https://github.com/AAIR-lab/AIA-AAAI21">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aair-lab&repo=aia-aaai21&custom_title=P" />
-  
+
+&emsp;&emsp; <a href="https://github.com/AAIR-lab/AIA-AAAI21"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aair-lab&repo=aia-aaai21&custom_title=P" />
 </a>
 <br/>
 <br/>
@@ -165,9 +150,8 @@ In Proceedings of AAAI, 2021.<br/>
 * Anytime Task and Motion Policies for Stochastic Environments.<br/>
 Naman Shah, Deepak Kala Vasudevan, Kislay Kumar, Pranav Kamojhalla, Siddharth Srivastava.<br/>
 In Proceedings of ICRA, 2020.<br/>
-&emsp;&emsp;
-<a href="https://github.com/AAIR-lab/Stochastic-Task-and-Motion-Planning">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aair-lab&repo=Stochastic-Task-and-Motion-Planning" />
+
+&emsp;&emsp; <a href="https://github.com/AAIR-lab/Stochastic-Task-and-Motion-Planning"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aair-lab&repo=Stochastic-Task-and-Motion-Planning" />
 </a>
 <br/>
 <br/>
