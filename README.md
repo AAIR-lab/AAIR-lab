@@ -8,6 +8,18 @@
 <br/>
 <br/>
 
+### 2025
+
+* Autonomous Evaluation of LLMs for Truth Maintenance and Reasoning Tasks. <br/>
+Rushang Karia*, Daniel Bramblett*, Daksh Dobhal, Siddharth Srivastava. <br/>
+In Proceedings of ICLR 2025. <br/>
+&emsp;&emsp;
+<a href="https://github.com/AAIR-lab/autoeval">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aair-lab&repo=autoeval" />
+</a>
+<br/>
+<br/>
+
 ### 2024
 
 * Epistemic Exploration for Generalizable Planning and Learning in Non-Stationary Settings.<br/>
