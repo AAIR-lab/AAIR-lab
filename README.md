@@ -48,6 +48,15 @@ In Proceedings of EAAI, 2025. <br/>
 
 ### 2024
 
+* Belief-State Query Policies for User-Aligned POMDPs.<br/>
+Daniel Bramblett, Siddharth Srivastava.<br/>
+In Proceedings of NeurIPS, 2024.<br/>
+
+&emsp;&emsp; <a href="https://github.com/AAIR-lab/bsq-policies"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aair-lab&repo=bsq-policies" />
+</a>
+<br/>
+<br/>
+
 * Epistemic Exploration for Generalizable Planning and Learning in Non-Stationary Settings.<br/>
 Rushang Karia*, Pulkit Verma*, Alberto Speranzon, Siddharth Srivastava.<br/>
 In Proceedings of ICAPS, 2024.<br/>
